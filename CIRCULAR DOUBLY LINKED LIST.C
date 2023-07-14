@@ -1,4 +1,4 @@
-CIRCULAR DOUBLY LINKED LIST 
+
 
 
 #include<stdio.h>  
