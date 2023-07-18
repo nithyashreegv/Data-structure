@@ -1,4 +1,4 @@
-// Tree traversal in C
+
 
 #include <stdio.h>
 #include <stdlib.h>
